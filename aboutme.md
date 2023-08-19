@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About Sohrab Ahmed
-only-about-me: About me
-subtitle: "For a start, my favorite quote is, <br> Data is new water, must should be clean and healthy before consuming."
+title: About Hexaim
+only-about-me: About Us
+subtitle: "Get the Technology you want."
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi, My name is <strong>Sohrab Ahmed</strong>, I am an avid datum enthusiast living in City of Pearls, Hyderabad.
+  Hi, We are <strong>Hexaim</strong>, I am an avid datum enthusiast living in City of Pearls, Hyderabad.
 </p>
 
 <p class="about-text">
