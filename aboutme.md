@@ -9,19 +9,14 @@ subtitle: "Get the Technology you want."
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi, We are <strong>Hexaim</strong>, I am an avid datum enthusiast living in City of Pearls, Hyderabad.
+  Hi, We are <strong>Hexaim</strong>, We are avid datum enthusiast operating from City of Pearls, Hyderabad.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am Microsoft Certified Data Engineer, Azure Cloud Developer and Data Analyst as well as Deltalake SME and Microsoft Certified Trainer who loves to transform raw data into information and information into insight.
+At HEXAIM , we are an IT service firm specializing in Major Technologies. Our aim is to foster collaborative thinking to further drive workplace innovation. we help businesses grow and nurture a consumer first mindset.
 </p>
 
-<p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
-I obtained my Bachelor of Technology degree in Computer Science & Engineering from ITS Engineering College in Greater Noida, India.
-<br>I am currently pursuing <strong>Master of Technology in Computing Systems & Infrastructure </strong> from BITS Pilani, India.
-</p>
 
 <center>
 	<a href="https://twitter.com/void_io" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @void_io</a>
