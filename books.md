@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Sohrab Ahmed - My Book Recommendations
+title: Hexaim - My Book Recommendations
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
