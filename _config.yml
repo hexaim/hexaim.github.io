@@ -31,7 +31,10 @@ baseurl: ""
 navbar-links:
   About Us: "aboutme"
 #  Blog: "blog"
-  Resume: "resume/HEAIM.pptx"
+  Company Profile: "resume/HEAIM.pptx"
+  Careers: "Careers"
+  Contact Us: "ContactUs"
+  
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
