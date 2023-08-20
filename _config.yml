@@ -31,7 +31,7 @@ baseurl: ""
 navbar-links:
   About Us: "aboutme"
 #  Blog: "blog"
-  Resume: "resume/MD_Sohrab_Ahmed.pdf"
+  Resume: "resume/HEXAIM.pdf"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
